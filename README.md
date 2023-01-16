@@ -7,3 +7,5 @@ I have excellent problem-solving skills and the ability to work independently or
 I am passionate about staying up to date with the latest technologies and best practices, and I am always seeking out opportunities to learn and grow as a developer. I am excited about the prospect of joining a dynamic team where I can contribute my skills and experience to create innovative software solutions.
 
 Currently exploring Python.
+
+[![Ante's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak-19)](https://github.com/ak-19/github-readme-stats)
