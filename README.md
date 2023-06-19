@@ -1,7 +1,7 @@
 <h1 align="center">My name is Ante</hi>
 <h3 align="center">I'm software engineer from Split, Croatia</h3>
 
-As a software engineer with over 17 years of experience, I have a strong foundation in computer science and a proven track record of delivering successful software projects. Over the past 7 years, I have focused on JavaScript development, building a range of applications and microservices.
+As a software engineer with over 18 years of experience, I have a strong foundation in computer science and a proven track record of delivering successful software projects. Over the past 7 years, I have focused on JavaScript development, building a range of applications and microservices.
 
 I have excellent problem-solving skills and the ability to work independently or as part of a team. I am comfortable working in agile development environments and am always looking for ways to improve processes and increase efficiency.
 
