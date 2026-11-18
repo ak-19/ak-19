@@ -7,7 +7,7 @@ I have excellent problem-solving skills and the ability to work independently or
 
 I am passionate about staying up to date with the latest technologies and best practices, and I am always seeking out opportunities to learn and grow as a engineer.
 
-Currently exploring Python and machine learning.
+Currently unemployed, exploring Python, machine learning, and exciting new algorithms.
 
 <p align="left">
 </p>
